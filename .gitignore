@@ -216,3 +216,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Credentials
+**/kaggle.json
+
+# Local database
+**/plantai.db
+
+# Large Datasets
+**/plantvillage dataset/
+
+# Model weights
+**/plantvillage_efficientnet_b0.pth
+
+# Python cache & build directories
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+torch
+torchvision
+tqdm
+Pillow
+streamlit
+opencv-python
+numpy
+scikit-learn
+pandas
+numpy
+matplotlib
+datetime
+sqlite3
+reportlab
+time
+hashlib
+
